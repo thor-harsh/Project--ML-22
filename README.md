@@ -2,7 +2,7 @@
 
 <table>
   
-**In this project we have build the NLP (Natural Language Processing) model for predicting sentiment analysis based on different reviews given to us by different customers.**
+**In this project we have build the NLP (Natural Language Processing) Model for predicting sentiment analysis based on different reviews given to us by different customers.**
 
 The different sentiments that we have consider are Positive(1) and Negative(0).<br></br>
 **Lets first understand NLP before jumping to the code**...<br></br>
