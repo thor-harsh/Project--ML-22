@@ -16,4 +16,4 @@ Natural language processing is an interdisciplinary subfield of computer science
   
 </table>
 
-**So what are you waiting for.. Jump to the code to get started. As usual for any doubt or query see you in pull request section. 
+**So what are you waiting for.. Jump to the code to get started. As usual for any doubt or query see you in pull request section 😁😂. Thanks!**
