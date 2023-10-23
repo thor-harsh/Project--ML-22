@@ -11,7 +11,7 @@ The different sentiments that we have consider are Positive(1) and Negative(0).<
 Natural language processing is an interdisciplinary subfield of computer science and linguistics. It is primarily concerned with giving computers the ability to support and manipulate speech.It is a machine learning technology that gives computers the ability to interpret, manipulate, and comprehend human language.<br></br>
 
 
-**Important Note: Please check the tsv file before jumping to the code.**
+**Important Note: Please check the tsv file once before jumping to the code.**
 
 
   
